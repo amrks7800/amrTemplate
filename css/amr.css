@@ -210,6 +210,12 @@ header .container nav .main .btn {
   border-radius: 100vw;
   transition: all 300ms ease-in-out;
   margin-inline: 5px;
+  cursor: pointer;
+  background-color: #fff;
+}
+
+header .container nav .main .btn:focus {
+  outline: none;
 }
 
 header .container nav .main .btn:hover {
