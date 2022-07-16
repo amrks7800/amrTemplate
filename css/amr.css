@@ -223,9 +223,6 @@ header .container nav .main .btn:hover {
   color: var(--section-color);
 }
 
-header .container nav .main .btn a {
-  color: inherit;
-}
 /* End Header */
 /* Start megamenu */
 .mega-menu {
