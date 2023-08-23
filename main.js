@@ -16,7 +16,7 @@ let hours = document.querySelector(".latest .container h4#hours");
 let minutes = document.querySelector(".latest .container h4#minutes");
 let seconds = document.querySelector(".latest .container h4#seconds");
 
-let countDownDate = new Date("Dec 31, 2022 23:59:59").getTime();
+let countDownDate = new Date("Dec 31, 2023 23:59:59").getTime();
 
 let counter = setInterval(() => {
   let dateNow = new Date().getTime();
